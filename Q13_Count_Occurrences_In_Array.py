@@ -1,4 +1,4 @@
-dsaQ13:
+dsaQ13:Count occurrences
 
 arr = [1,2,2,3,2,4]
 
