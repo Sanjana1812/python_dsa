@@ -1,6 +1,6 @@
-# Python DSA Questions
+# Python DSA
 
-This repository contains Python DSA problems solved as part of my practice and learning.
+This repository contains Data Structures and Algorithms (DSA) problems solved using Python as part of my practice and learning.
 
 ## Topics Covered
 
@@ -15,6 +15,8 @@ This repository contains Python DSA problems solved as part of my practice and l
 * [x] Second Largest Element
 * [x] Linear Search
 * [x] Reverse Array
+* [x] Reverse Array (In-Place)
+* [x] Check if Array is Sorted
 * [x] Remove Duplicates
 * [x] Move Zeros to End
 * [x] Left Rotate by One Position
@@ -23,5 +25,9 @@ This repository contains Python DSA problems solved as part of my practice and l
 * [x] Right Rotate by K Places
 * [x] Union of Arrays
 * [x] Intersection of Arrays
+* [x] Find Missing Number
+* [x] Count Occurrences of Element
 
-More problems coming soon 🚀
+## Status
+
+Updating regularly with new DSA questions and solutions.
