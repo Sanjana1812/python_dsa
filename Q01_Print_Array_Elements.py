@@ -4,6 +4,7 @@ for i in arr:
   print(i)
 
 output:
+
 10
 20
 30
