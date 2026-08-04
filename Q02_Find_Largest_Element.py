@@ -6,6 +6,5 @@ for i in arr:
   if i > largest:
     largest=i
 print("largest element is:", largest)
-
 output:
 largest element is: 99
