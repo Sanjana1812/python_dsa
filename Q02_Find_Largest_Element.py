@@ -7,4 +7,4 @@ for i in arr:
     largest=i
 print("largest element is:", largest)
 output:
-largest element is: 99
+largest element is:99
