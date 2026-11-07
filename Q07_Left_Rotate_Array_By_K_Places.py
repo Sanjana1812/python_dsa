@@ -5,7 +5,6 @@ k = 2
 temp=arr[:k]
 arr = arr[k:] + temp
 print(arr)
-
 output:
 [3, 4, 5, 1, 2]
 
